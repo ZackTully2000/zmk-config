@@ -19,8 +19,8 @@
 #
 ---
 include:
-  - board: nice_nano_v2
+  - board: Seeed_Studio_XIAO_nRF52840
     shield: lily58_left
-  - board: nice_nano_v2
+  - board: Seeed_Studio_XIAO_nRF52840
     shield: lily58_right
 
